@@ -1,0 +1,6 @@
+.venv
+.vscode
+.ipynb_checkpoints
+debug.log
+movies.csv
+tags.csv
